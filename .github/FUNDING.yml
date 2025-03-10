@@ -12,4 +12,4 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: # Replace with a single Polar username
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 thanks_dev: # Replace with a single thanks.dev username
-custom: ['bc1q5ws9jjrvwy0zy35wjn7jw7yacx3xrn6pxm5vez', '0x6ee89791b14464589ed79544FB0cb0E1eE8067B8'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['BTC:bc1q5ws9jjrvwy0zy35wjn7jw7yacx3xrn6pxm5vez', 'ETH:0x6ee89791b14464589ed79544FB0cb0E1eE8067B8', 'https://streamelements.com/genma01/tip'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']

@@ -6,7 +6,7 @@ Then you can set it to false and use sendWhatsappMessage
 use the international format for the phone number (starting with +)  without space.
 
 
-if __name__ == '__main__':
+
     phone_number = '+336........' #International format
     message = "Test Message !"
 

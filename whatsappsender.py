@@ -76,7 +76,7 @@ class WhatsappSender:
     def sendWhatsappMessage(self, phone_number, message):
         """
 
-        :param phone_number: in international format +XX X XX XX XX XX
+        :param phone_number: in international format +XXXXXXXXXXX
         :param message:
         :return:
         """
